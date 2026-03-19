@@ -1,0 +1,19 @@
+# Data files (Bloomberg — do not track)
+data/
+*.xlsx
+*.xls
+*.csv
+
+# MATLAB generated files
+*.asv
+*.m~
+*.mex*
+slprj/
+
+# Figures (regenerate from script)
+outputs/*.png
+outputs/*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
